@@ -1,2 +1,2 @@
-# churn_model_ml
-Repositório do projeto de machine learning de classificação - churn.
+# Modelo de Machine Learning de Classificação - Churn
+Por: Fabiano Rodrigues Amaral
