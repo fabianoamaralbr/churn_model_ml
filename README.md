@@ -1,4 +1,4 @@
-# Churn - Modelo de Previsão para Retensão de Dinheiro
+# Churn - Modelo de Previsão para Retensão de Clientes
 Modelo desenvolvido por: Fabiano Rodrigues Amaral \
 Linguagem: Python
 
