@@ -13,7 +13,8 @@ Quando uma empresa tem alto índice de Churn, obviamente precisa vender mais par
 Também deve ser considerado que a maioria dos clientes perdidos tem potêncial de propaganda negativa, o que vai gerar ainda mais esforços em campanhas publicitárias, promoções, etc. É mais investimento para recuperar a má reputação adquerida. Em resumo: financeiramente, o churn provoca uma bola de neve de custos.
 
 ## Como o modelo de Machine Learning ajuda a reduzir o Churn?
-O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, classificando aqueles que tem maior possibilidade de cancelar um serviço ou deixar de comprar um produto. Isso a possibilidade direcionar campanhas específicas, num momento antecipado à decisão de mudar de marca/empresa. O modelo reduz diretamento o Churn, viabilizando a redução de custos.
+O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, classificando aqueles que tem maior possibilidade de cancelar um serviço ou deixar de comprar um produto. Assim há a possibilidade de direcionar campanhas específicas, num momento antecipado à decisão de mudar de marca/empresa.
+ O modelo reduz diretamento o Churn, viabilizando a redução de custos.
 
 ## Arquivos
 Em desenvolvimento!
