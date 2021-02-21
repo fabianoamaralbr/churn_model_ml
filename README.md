@@ -1,7 +1,8 @@
 # Modelo de Previsão para Retensão de Clientes
-**Modelo de Machine Learning para Churn** \
+**MODELO DE MACHINE LEARNING PARA CHURN** \
 \
 Modelo desenvolvido por: **Fabiano Rodrigues Amaral** \
+\
 Linguagem: **Python**
 
 ## Introdução
