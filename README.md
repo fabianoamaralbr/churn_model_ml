@@ -2,6 +2,7 @@
 **MODELO DE MACHINE LEARNING PARA CHURN** | Por: **Fabiano Rodrigues Amaral** | Linguagem: **Python** 
 
 -----
+![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
 ## Introdução
 De forma direta, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o caixa da empresa, pois quanto maior o Churn, maior será a redução da receita da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
 \
