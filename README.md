@@ -1,10 +1,11 @@
-# Churn - Modelo de Previsão para Retensão de Clientes
+# Modelo de Previsão para Retensão de Clientes
+Modelo de Machine Learning para Churn\
+\
 Modelo desenvolvido por: Fabiano Rodrigues Amaral \
 Linguagem: Python
 
----
-
-De forma direta, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o CAIXA da empresa, pois quanto MAIOR O CHURN, maior será a REDUÇÃO DE RECEITA da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
+## Introdução
+De forma direta, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o caixa da empresa, pois quanto maior o Churn, maior será a redução da receita da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
 \
 A equação é simples: é determinado uma meta de vendas para cobrir todos os custos da empresa e ainda ter lucro. Porém, se a empresa perde clientes, a receita das revendas do produto/serviço para de entrar no caixa e deve haver mais esforços para recuperar o que foi perdido. Só que a empresa não deixa apenas de ganhar aquela receita que era garantida, pois a tendência é ter outros custos adicionais por conta disso.
 
@@ -14,3 +15,7 @@ Quando uma empresa tem alto índice de Churn, obviamente precisa vender mais par
 Também deve ser considerado que a maioria dos clientes perdidos tem potêncial de propaganda negativa, o que vai gerar ainda mais esforços em campanhas publicitárias, promoções, etc. É mais investimento para recuperar a má reputação adquerida. Em resumo: financeiramente, o churn provoca uma bola de neve de custos.
 
 ## Como o modelo de Machine Learning ajuda a reduzir o Churn?
+O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, classificando aqueles que tem maior possibilidade de cancelar um serviço ou deixar de comprar um produto. Isso a possibilidade direcionar campanhas específicas, num momento antecipado à decisão de mudar de marca/empresa. O modelo reduz diretamento o Churn, viabilizando a redução de custos.
+
+## Arquivos
+Em desenvolvimento!
