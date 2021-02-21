@@ -11,6 +11,6 @@ A equação é simples: é determinado uma meta de vendas para cobrir todos os c
 ## Por que a empresa tem custos adicionais com o Churn?
 Quando uma empresa tem alto índice de Churn, obviamente precisa vender mais para cobrir o que está deixando de ganhar. Isso requer maior investimento em vendas, seja com pessoal, capanhas publicitárias, promoções, entre outros. Outra consequencia é a má reputação que pode ser atribuída ao produto/serviço, geralmente proveniente por experiências negativas com atendimento, qualidade, demora na entrega, segurança ou valor. E recuperar um cliente perdido por insatisfação é mais custoso do que adquerir novos clientes. Pois além do custo monetário, também tem o custo do tempo que o cliente deixa de comprar da empresa.\
 \
-Também deve ser considerado que a maioria dos clientes perdidos tem potêncial de propagando negativa, o que vai gerar ainda mais esforços em campanhas publicitárias, promoções, etc. É mais investimento para recuperar a má reputação adquerida. Em resumo: financeiramente, o churn provoca uma bola de neve de custos.
+Também deve ser considerado que a maioria dos clientes perdidos tem potêncial de propaganda negativa, o que vai gerar ainda mais esforços em campanhas publicitárias, promoções, etc. É mais investimento para recuperar a má reputação adquerida. Em resumo: financeiramente, o churn provoca uma bola de neve de custos.
 
 ## Como o modelo de Machine Learning ajuda a reduzir o Churn?
