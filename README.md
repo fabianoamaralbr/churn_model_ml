@@ -1,8 +1,8 @@
 # Modelo de Previsão para Retensão de Clientes
-Modelo de Machine Learning para Churn\
+**Modelo de Machine Learning para Churn** \
 \
-Modelo desenvolvido por: Fabiano Rodrigues Amaral \
-Linguagem: Python
+Modelo desenvolvido por: **Fabiano Rodrigues Amaral** \
+Linguagem: **Python**
 
 ## Introdução
 De forma direta, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o caixa da empresa, pois quanto maior o Churn, maior será a redução da receita da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
