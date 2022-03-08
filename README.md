@@ -17,4 +17,6 @@ O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, c
  O modelo reduz diretamento o Churn, viabilizando a redução de custos.
 
 ## Arquivos
-Em desenvolvimento!
+[Entendimento do Problema de Negócio](entendimento_do_problema.md)
+[Análise Exploratória dos Dados](analise_exploratoria.ipynb)
+[Modelo de Machine Learning para Previsão de Churn](modelo_machine_learning_churn.ipynb)
