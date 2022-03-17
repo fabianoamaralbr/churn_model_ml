@@ -37,3 +37,5 @@ Após a análise dos modelos de maior eficácia, o trabalho consiste em realizar
 
 **3. Monitoramento e avaliação do modelo**
 Os modelos com melhor performance precisam ser colocados em produção, seja incorporando à um software já utilizado na empresa ou criando um novo programa. Independete de como será realizado essa entrega (deploy), os modelos precisam estar em periódico monitoramento para valiar seu desempenho, e melhora-lo quando for necessário.
+
+[<< Voltar para a homepage do Projeto](README.md) | [Análise Exploratória dos Dados >>](analise_exploratoria.ipynb)
