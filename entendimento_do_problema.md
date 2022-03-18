@@ -8,9 +8,11 @@ Aqui estamos lidando com um problema de Churn de uma instituição financeira, q
 Como explicado na primeira parte deste projeto, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o caixa da empresa, pois quanto maior o Churn, maior será a redução da receita da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
 \
 Para calcular o índice de cancelamento ou índice de Churn (C), dentro do período que está sendo analisado, é preciso dividir o total de cancelamentos de todo o período (Tcan), pelo total de clientes no início do período (Tini).
-~~~
-C = Tcan / Tini
-~~~
+<center>
+
+* #### **C = Tcan / Tini**
+
+<center>
 Exemplo: Uma empresa quer calcular o índice de Churn do mês anterior. No primeiro dia do mês, havia em seu portfólio 1.500 clientes. Ao longo desse mesmo mês, houve 215 cancelamentos de seus serviços. Aplicando a fórmula, fica: $C = 215/1500 = 0,1433$. Portanto o índice de Churn daquele mês apurado foi de 14,33%.\
 \
 Obviamente, quanto menor for esse percentual, melhor para a empresa, pois a mesma está realizando um bom trabalho de retenção.
