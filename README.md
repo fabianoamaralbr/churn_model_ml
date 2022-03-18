@@ -1,5 +1,5 @@
 # Modelo de Previsão com foco na Retensão de Clientes
-**MODELO DE MACHINE LEARNING PARA CHURN** | Por: **Fabiano Rodrigues Amaral** | Linguagem: **Python/Jupyter Notebook** 
+**MODELO DE MACHINE LEARNING PARA CHURN** | Por: **Fabiano Amaral** | Linguagem: **Python/Jupyter Notebook** 
 
 ![](https://github.com/amaralbr/churn_model_ml/blob/main/2.20.png?raw=true)
 ## Introdução
