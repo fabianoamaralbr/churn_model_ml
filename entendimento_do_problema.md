@@ -17,7 +17,11 @@ Obviamente, quanto menor for esse percentual, melhor para a empresa, pois a mesm
 
 ### Qual o motivo do Churn nas empresas?
 
+Etratégias comerciais, funil de vendas e outras ferramentas de gerenciamento de clientes estão com divergência à realide de perfil do real grupo de clientes, propiciam ações promocionais pouco eficazes. Ou pior, a falta de processos de acompanhamento das atividades dos clientes nos diversos canais de relacionamento, o que provoca uma grande negligência no relacionamento empresa-cliente.
+
 ### Como reduzir o Churn?
+
+Entender o motivos dos cancelamentos, identificar os grupos mais propensos a cancelar, melhorar a experiência do cliente, aumentar a percepção de valor do produto/serviço, investir no setor de relacionamento para ouvir os clientes e não permitir que pessoas fiquem sem respostas ou sem resolução quando surge um problema, além de saber alinhar bem as espectativas.
 
 ### Como podemos resolver esse problema com Machine Learning?
 
@@ -31,7 +35,7 @@ Nesse momento é realizado uma análise exploratória para compreender melhor os
 A análise exploratória permite ao Cientista de Dados o entendimento de como podemos melhorar o desempenho da previsão do Modelo, fazendo uma tranformação nos dados brutos em características que representam melhor o problema ao modelo preditivo. Também nessa fase, é identificado erros nos dados e faz parte da transformação adequa-los caso haja dados faltantes e/ou discrepantes.
 
 **2. Análise do melhor modelo para a solução do problema**
-Para o problema de Churn, será utilizado um modelo de classificação. Os mais conhecidos são Regressão Logísitca, Árvore de Decisão, Floresta Aleatória, KNN e XGBoost. Qual é o melhor? Essa é a pergunta norteadora para essa fase, onde através de teste será verificado o melhor modelo para que a solução seja implementada.\
+Para o problema de Churn, será utilizado um modelo de classificação. Os mais conhecidos são Regressão Logística, Árvore de Decisão, Floresta Aleatória, KNN e XGBoost. Qual é o melhor? Essa é a pergunta norteadora para essa fase, onde através de teste será verificado o melhor modelo para que a solução seja implementada.\
 \
 Após a análise dos modelos de maior eficácia, o trabalho consiste em realizar ajuste de hiperparâmetros (configurações de cada modelo) e testa-los para verificar qual a configuração mais se adequa como solução para o problema de negócio.
 
