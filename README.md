@@ -16,6 +16,7 @@ Também deve ser considerado que a maioria dos clientes perdidos tem potêncial 
 O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, classificando aqueles que tem maior possibilidade de cancelar um serviço ou deixar de comprar um produto. Assim há a possibilidade de direcionar campanhas específicas, num momento antecipado à decisão de mudar de marca/empresa.
  O modelo reduz diretamento o Churn, viabilizando a redução de custos.
 
+
 ## Arquivos
 * [Entendimento do Problema de Negócio](entendimento_do_problema.md)
 * [Análise Exploratória dos Dados](analise_exploratoria.ipynb)
