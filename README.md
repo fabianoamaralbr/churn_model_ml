@@ -1,23 +1,26 @@
-# Modelo de Previsão com foco na Retensão de Clientes
-**MODELO DE MACHINE LEARNING PARA CHURN** | Por: **Fabiano Amaral** | Linguagem: **Python/Jupyter Notebook** 
+# Forecasting Model Focused on Customer Retention
+**MACHINE LEARNING MODEL FOR CHURN** | By: **Fabiano Amaral** | Language: **Python** 
 
 ![](https://github.com/amaralbr/churn_model_ml/blob/main/2.20.png?raw=true)
-## Introdução
-De forma direta, Churn é uma métrica que indica o quanto uma empresa perdeu de clientes em determinado período, podendo ter um parâmetro anual, semestral ou mensal. O índice de cancelamento tem importância significativa para o caixa da empresa, pois quanto maior o Churn, maior será a redução da receita da mesma. Isso acaba provocando desequilibrio no Fluxo de Caixa, mesmo que o time de vendas esteja batendo todas as metas.\
-\
-A equação é simples: é determinado uma meta de vendas para cobrir todos os custos da empresa e ainda ter lucro. Porém, se a empresa perde clientes, a receita das revendas do produto/serviço para de entrar no caixa e deve haver mais esforços para recuperar o que foi perdido. Só que a empresa não deixa apenas de ganhar aquela receita que era garantida, pois a tendência é ter outros custos adicionais por conta disso.
+## Introduction
+Churn is a metric that indicates how many customers a company has lost over a specific period, such as annually, semiannually, or monthly. The churn rate is highly significant to a company's cash flow because a higher churn rate results in lower revenue. This creates an imbalance in cash flow, even if the sales team is meeting all its targets.
 
-## Por que a empresa tem custos adicionais com o Churn?
-Quando uma empresa tem alto índice de Churn, obviamente precisa vender mais para cobrir o que está deixando de ganhar. Isso requer maior investimento em vendas, seja com pessoal, capanhas publicitárias, promoções, entre outros. Outra consequencia é a má reputação que pode ser atribuída ao produto/serviço, geralmente proveniente por experiências negativas com atendimento, qualidade, demora na entrega, segurança ou valor. E recuperar um cliente perdido por insatisfação é mais custoso do que adquerir novos clientes. Pois além do custo monetário, também tem o custo do tempo que o cliente deixa de comprar da empresa.\
-\
-Também deve ser considerado que a maioria dos clientes perdidos tem potêncial de propaganda negativa, o que vai gerar ainda mais esforços em campanhas publicitárias, promoções, etc. É mais investimento para recuperar a má reputação adquerida. Em resumo: financeiramente, o churn provoca uma bola de neve de custos.
+The equation is simple: a sales target is set to cover all the company's costs and still generate a profit. However, when the company loses customers, the revenue from the resale of its products or services stops coming in, requiring additional efforts to recover what has been lost. The impact is twofold — not only does the company lose guaranteed revenue, but it also tends to incur additional costs as a result.
 
-## Como o modelo de Machine Learning ajuda a reduzir o Churn?
-O modelo de previsão de Machine Learning irá analisar o perfil dos clientes, classificando aqueles que tem maior possibilidade de cancelar um serviço ou deixar de comprar um produto. Assim há a possibilidade de direcionar campanhas específicas, num momento antecipado à decisão de mudar de marca/empresa.
- O modelo reduz diretamento o Churn, viabilizando a redução de custos.
+## Why Does Churn Lead to Additional Costs?
+When a company has a high churn rate, it must sell more to compensate for the lost revenue. This requires greater investment in sales efforts, including hiring staff, running advertising campaigns, offering promotions, and more. Additionally, a high churn rate can harm the company's reputation, often due to negative experiences related to service quality, product performance, delivery delays, security issues, or perceived value.
+
+Recovering a dissatisfied customer is typically more expensive than acquiring a new one. Beyond monetary costs, there is also the opportunity cost — the time during which the customer is not making purchases from the company.
+
+Another critical factor to consider is the potential for lost customers to spread negative publicity. This can further damage the company's reputation, necessitating even greater investments in advertising, promotions, and public relations to counteract the bad press. In financial terms, churn can create a "snowball effect" of escalating costs.
+
+## How Does a Machine Learning Model Help Reduce Churn?
+A Machine Learning predictive model analyzes customer profiles and identifies those most likely to cancel a service or stop purchasing a product. By pinpointing at-risk customers, the company can launch targeted campaigns to address their concerns before they decide to switch brands or stop buying.
+
+This proactive approach directly reduces churn, enabling the company to cut costs and retain its customer base more effectively.
 
 
-## Arquivos
-* [Entendimento do Problema de Negócio](entendimento_do_problema.md)
-* [Análise Exploratória dos Dados](analise_exploratoria.ipynb)
-* [Modelo de Machine Learning para Previsão de Churn](modelo_machine_learning_churn.ipynb)
+## Archives
+* [Understanding the Business Problem](understanding_the_problem.md)
+* [Exploratory Data Analysis](exploratory_analysis.ipynb)
+* [Machine Learning Model for Churn Prediction](machine_learning_model_churn.ipynb)
