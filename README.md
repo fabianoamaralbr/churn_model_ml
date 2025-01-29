@@ -1,7 +1,7 @@
 # Forecasting Model Focused on Customer Retention
 **MACHINE LEARNING MODEL FOR CHURN** | By: **Fabiano Amaral** | Language: **Python** 
 
-![](https://github.com/amaralbr/churn_model_ml/blob/main/2.20.png?raw=true)
+![](img/2.20.png)
 ## Introduction
 Churn is a metric that indicates how many customers a company has lost over a specific period, such as annually, semiannually, or monthly. The churn rate is highly significant to a company's cash flow because a higher churn rate results in lower revenue. This creates an imbalance in cash flow, even if the sales team is meeting all its targets.
 

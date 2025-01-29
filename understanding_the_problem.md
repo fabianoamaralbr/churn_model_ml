@@ -8,14 +8,14 @@ This project addresses a churn problem for a financial institution that has been
 ### What is Churn?  
 As outlined earlier in this project, churn is a metric that measures the number of customers a company loses during a specific period. This period could be annual, semiannual, or monthly. Churn rate is critical for a company's cash flow because higher churn directly translates to reduced revenue. Even if the sales team meets its targets, high churn can disrupt cash flow balance.  
 
-To calculate the churn rate ( ![](C.png) ) for a given period, divide the total number of cancellations ( ![](Tcancell.png) ) by the total number of customers at the start of the period ( ![](Tstart.png) ):
+To calculate the churn rate ( ![](img/C.png) ) for a given period, divide the total number of cancellations ( ![](img/Tcancell.png) ) by the total number of customers at the start of the period ( ![](img/Tstart.png) ):
 
-![](function.png)
+![](img/function.png)
 
 **Example:**  
 A company with 1,500 customers at the start of the month experiences 215 cancellations during the same month. Applying the formula:  
 
-![](calc.png)
+![](img/calc.png)
 
 Thus, the churn rate for the month is 14.33%.  
 
